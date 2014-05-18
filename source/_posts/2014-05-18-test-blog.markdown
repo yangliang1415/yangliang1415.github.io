@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Test Blog"
+date: 2014-05-18 15:18:24 +0800
+comments: true
+categories: 
+---
+
+This is a test for my blog 
